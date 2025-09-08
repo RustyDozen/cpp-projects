@@ -1,1 +1,1 @@
-# cpp-projects
+# C++ application projects
